@@ -1,0 +1,50 @@
+{
+	"profile":{
+		"img":"1.png",
+		"name":"Joshi",
+		"roll":"18A35A0505",
+		"place":"Kakinada"
+	},
+	"career":{
+        "info":"I want seek a position where i can utilize my knowledge and skills"
+	},
+	"education":[
+		{
+			"sno":"1",
+		"degree":"B.Tech",
+		"institute":"prgati",
+		"percentege":"90",
+		"yop":"2021"
+	},
+		{
+			"sno":"2",
+		"degree":"Diploma",
+		"institute":"APT",
+		"percentege":"90",
+		"yop":"2018"
+	},
+		{
+			"sno":"3",
+		"degree":"SSC",
+		"institute":"z.p.p.h.school",
+		"percentege":"90",
+		"yop":"2015"
+	}
+],
+	"languages":[
+		{
+            "lang":"english"
+        },
+        {
+            "lang":"telugu"
+        },
+        {
+        	"lang":"hindi"
+        },
+        {
+        	"lang":"tamil"
+        }
+
+	]
+
+}

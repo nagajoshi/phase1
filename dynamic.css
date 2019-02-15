@@ -1,0 +1,95 @@
+.main
+{
+	background: pink;
+	display: flex;
+	justify-content: space-around;
+	margin: 10%;
+	
+}
+
+.left
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 40%;
+	text-align: center;
+	height: 50%;
+	box-shadow: 4px 4px 4px 4px;
+}
+.right
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 60%;
+	padding: 2%;
+	box-shadow: 4px 4px 4px 4px;
+}
+
+/*mobile view*/
+@media screen and (min-width: 320px) and (max-width: 480px){
+	.main
+{
+	background: pink;
+	display: inline-block;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 5%;
+	width: 300px;
+}
+
+.left
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 80%;
+	text-align: center;
+	height: 50%;
+	box-shadow: 4px 4px 4px 4px;
+}
+.right
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 80%;
+	padding: 2%;
+	box-shadow: 4px 4px 4px 4px;
+}
+}
+/*tablet view*/
+
+@media screen and (min-width: 481px) and (max-width: 720px){
+	.main
+{
+	background: pink;
+	display: inline-block;
+	justify-content: space-around;
+	margin: 5%;
+	border-radius: 5%;
+	width: 500px;
+}
+
+.left
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 80%;
+	text-align: center;
+	height: 50%;
+	box-shadow: 4px 4px 4px 4px;
+}
+.right
+{
+	background: lightsalmon;
+	border-radius: 5%;
+	margin: 5%;
+	width: 80%;
+	padding: 2%;
+	box-shadow: 4px 4px 4px 4px;
+}
+
+}
